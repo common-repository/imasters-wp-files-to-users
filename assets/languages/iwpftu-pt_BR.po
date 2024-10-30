@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP Files to Users\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 10:16-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../imasters-wp-files-to-users-download.php:55
+msgid "File not found!"
+msgstr "Arquivo não encontrado!"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:16
+msgid "Back to files"
+msgstr "Voltar para os arquivos"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:22
+msgid "Files view"
+msgstr "Visualizar arquivos"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:27
+#: ../../imasters-wp-files-to-users-manager.php:294
+#: ../../imasters-wp-files-to-users-manager.php:359
+#: ../../imasters-wp-files-to-users-manager.php:447
+msgid "File name"
+msgstr "Nome do arquivo"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:28
+#: ../../imasters-wp-files-to-users-manager-user.php:63
+#: ../../imasters-wp-files-to-users-manager.php:449
+#: ../../imasters-wp-files-to-users-manager.php:496
+msgid "Download"
+msgstr "Baixar"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:29
+#: ../../imasters-wp-files-to-users-manager.php:450
+msgid "Date"
+msgstr "Data"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:30
+#: ../../imasters-wp-files-to-users-manager.php:451
+msgid "Size"
+msgstr "Tamanho"
+
+#: ../../imasters-wp-files-to-users-manager-user.php:72
+msgid "Any file inserted to you, sorry."
+msgstr "Nenhum arquivo para você, sinto muito."
+
+#: ../../imasters-wp-files-to-users-manager.php:31
+#: ../../imasters-wp-files-to-users-manager.php:131
+msgid "Insert the file name."
+msgstr "Insira o nome do arquivo."
+
+#: ../../imasters-wp-files-to-users-manager.php:32
+#: ../../imasters-wp-files-to-users-manager.php:133
+msgid "Select a file."
+msgstr "Selecione um arquivo."
+
+#: ../../imasters-wp-files-to-users-manager.php:50
+#: ../../imasters-wp-files-to-users-manager.php:157
+msgid "The file exceeded the size limit."
+msgstr "O arquivo excedeu o limite de tamanho."
+
+#: ../../imasters-wp-files-to-users-manager.php:86
+msgid "File has been sent."
+msgstr "O arquivo foi enviado com sucesso."
+
+#: ../../imasters-wp-files-to-users-manager.php:91
+msgid "Was not possible send file."
+msgstr "Não foi possível enviar o arquivo."
+
+#: ../../imasters-wp-files-to-users-manager.php:96
+#: ../../imasters-wp-files-to-users-manager.php:193
+msgid "Already exists a file with this name."
+msgstr "Já existe um arquivo com esse nome."
+
+#: ../../imasters-wp-files-to-users-manager.php:102
+msgid "For security, is not allowed sent files with extension"
+msgstr "Por segurança, não é possível enviar arquivos com essa extensão."
+
+#: ../../imasters-wp-files-to-users-manager.php:215
+msgid "File has been edited."
+msgstr "Arquivo foi editado com sucesso."
+
+#: ../../imasters-wp-files-to-users-manager.php:220
+msgid "Any alteration didn't happen"
+msgstr "Nenhuma alteração ocorreu"
+
+#: ../../imasters-wp-files-to-users-manager.php:226
+#: ../../imasters-wp-files-to-users-manager.php:435
+msgid "Delete selected"
+msgstr "Excluir selecionado"
+
+#: ../../imasters-wp-files-to-users-manager.php:248
+msgid "File has been deleted"
+msgstr "Arquivo foi deletado com sucesso."
+
+#: ../../imasters-wp-files-to-users-manager.php:264
+msgid "File Manager"
+msgstr "Gerenciador de Arquivo"
+
+#: ../../imasters-wp-files-to-users-manager.php:275
+msgid "Note:"
+msgstr "Aviso:"
+
+#: ../../imasters-wp-files-to-users-manager.php:288
+msgid "Add new files"
+msgstr "Adicionar novos arquivos"
+
+#: ../../imasters-wp-files-to-users-manager.php:302
+#: ../../imasters-wp-files-to-users-manager.php:448
+msgid "User"
+msgstr "Usuário"
+
+#: ../../imasters-wp-files-to-users-manager.php:321
+msgid "Select file"
+msgstr "Selecione um arquivo"
+
+#: ../../imasters-wp-files-to-users-manager.php:331
+#: ../../imasters-wp-files-to-users-manager.php:402
+msgid "Save"
+msgstr "Salvar"
+
+#: ../../imasters-wp-files-to-users-manager.php:331
+#: ../../imasters-wp-files-to-users-manager.php:402
+msgid "or"
+msgstr "ou"
+
+#: ../../imasters-wp-files-to-users-manager.php:331
+#: ../../imasters-wp-files-to-users-manager.php:402
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../../imasters-wp-files-to-users-manager.php:353
+msgid "Edit feature file"
+msgstr "Editar informações do arquivo"
+
+#: ../../imasters-wp-files-to-users-manager.php:367
+msgid "To user"
+msgstr "Para o Usuário"
+
+#: ../../imasters-wp-files-to-users-manager.php:384
+msgid "Mark to"
+msgstr "Marque para"
+
+#: ../../imasters-wp-files-to-users-manager.php:384
+msgid "edit file"
+msgstr "editar arquivo"
+
+#: ../../imasters-wp-files-to-users-manager.php:390
+msgid "Select new file"
+msgstr "Selecionar novo arquivo"
+
+#: ../../imasters-wp-files-to-users-manager.php:426
+msgid "Manager File"
+msgstr "Gerenciar Arquivos"
+
+#: ../../imasters-wp-files-to-users-manager.php:430
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../../imasters-wp-files-to-users-manager.php:436
+msgid "Insert new file"
+msgstr "Inserir novo arquivo"
+
+#: ../../imasters-wp-files-to-users-manager.php:452
+msgid "Extension"
+msgstr "Extensão"
+
+#: ../../imasters-wp-files-to-users-manager.php:506
+msgid "Any file inserted yet"
+msgstr "Nenhum arquivo cadastrado."
+
+#: ../../imasters-wp-files-to-users-uninstall.php:15
+#: ../../imasters-wp-files-to-users-uninstall.php:19
+#: ../../imasters-wp-files-to-users-uninstall.php:62
+#: ../../imasters-wp-files-to-users-uninstall.php:97
+msgid "Uninstall iMasters WP Files to Users"
+msgstr "Desinstalar iMasters WP Arquivos de Usuários"
+
+#: ../../imasters-wp-files-to-users-uninstall.php:21
+msgid "Tables"
+msgstr "Tabelas"
+
+#: ../../imasters-wp-files-to-users-uninstall.php:25
+#, php-format
+msgid "<li>Table '%s' has been deleted.</li>"
+msgstr "<li>Tabela '%s' foi deletada. </li>"
+
+#: ../../imasters-wp-files-to-users-uninstall.php:54
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate iMasters WP Files to Users</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar iMasters WP Arquivos de Usuários</a> Desabilite para concluir a desinstalação."
+
+#: ../../imasters-wp-files-to-users-uninstall.php:63
+msgid "Uninstaling this plugin the options and table used by iMasters WP Files to Users will be removed."
+msgstr "Desinstalando este plugin as tabelas serão removidas do iMasters WP Files to Users."
+
+#: ../../imasters-wp-files-to-users-uninstall.php:65
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../../imasters-wp-files-to-users-uninstall.php:66
+msgid "This process is irreversible. We suggest that you do a database backup first."
+msgstr "Este processo é irreversível. Nós recomendamos que faça backup da banco de dados primeiro."
+
+#: ../../imasters-wp-files-to-users-uninstall.php:71
+msgid "The following WordPress Tables will be deleted:"
+msgstr "Todas as tabelas do WordPress serão deletadas:"
+
+#: ../../imasters-wp-files-to-users-uninstall.php:78
+msgid "WordPress Tables"
+msgstr "Tabelas WordPress"
+
+#: ../../imasters-wp-files-to-users-uninstall.php:94
+msgid "Yes. Uninstall iMasters WP Files to Users now"
+msgstr "Sim. Desinstalar iMasters WP Files to Users agora"
+
+#: ../../imasters-wp-files-to-users.php:69
+msgid "iMasters WP Files to Users"
+msgstr "iMasters WP Files to Users"
+
+#: ../../imasters-wp-files-to-users.php:76
+msgid "Manager Files"
+msgstr "Gerenciar Arquivos"
+
+#: ../../imasters-wp-files-to-users.php:78
+msgid "Files"
+msgstr "Arquivos"
+
+#: ../../imasters-wp-files-to-users.php:80
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: ../../imasters-wp-files-to-users.php:125
+msgid ""
+"You are about to delete the files registered by iMasters WP File to Users? \\n"
+" Choose [Cancel] To Cancel, [OK] to delete."
+msgstr ""
+"Você está a ponto de excluir os arquivos registrados por iMasters WP Files to Users?\\n"
+" Escolha [Cancel] para Cancelar, [OK] para excluir."
+
+#~ msgid "iMasters WP Incoming Links"
+#~ msgstr "iMasters WP Links de Entrada"
+#~ msgid " Show incoming links registered at: "
+#~ msgstr "Mostrar links de entrada registrados em:"
+#~ msgid "All"
+#~ msgstr "Todos"
+#~ msgid "24h"
+#~ msgstr "24h"
+#~ msgid "1 week"
+#~ msgstr "1 Semana"
+#~ msgid "1 month"
+#~ msgstr "1 mês"
+#~ msgid "Times"
+#~ msgstr "Vezes"
+#~ msgid "Origin page"
+#~ msgstr "Página de origem"
+#~ msgid "Target page"
+#~ msgstr "Página de destino"
+#~ msgid "Clear Log"
+#~ msgstr "Limpar Log"
+#~ msgid "Clear all incomings links registered by iMasters WP Incoming links"
+#~ msgstr "Limpa os Logs do iMasters WP Links de Entrada "
+#~ msgid "Google Blog Search"
+#~ msgstr "Google Blog Search"
+#~ msgid "More &raquo;"
+#~ msgstr "Mais &raquo;"
+#~ msgid "Description"
+#~ msgstr "Descrição"
+#~ msgid "Any log register inserted in Google Blog Search"
+#~ msgstr "Nenhum registro cadastrado."
+#~ msgid "Settings updated successfully."
+#~ msgstr "Configurações Atualizadas com sucesso."
+#~ msgid "Settings"
+#~ msgstr "Configurações"
+#~ msgid "Open incoming links in a new page."
+#~ msgstr "Abrir incoming links em nova página"
+#~ msgid "Mark this option to open in a new window the origin page"
+#~ msgstr "Marque esta opção para abrir a página de origem em uma nova janela"
+#~ msgid "Google Blog Search Listing"
+#~ msgstr "Listagem do Google Blog Search"
+#~ msgid "How many links show at most"
+#~ msgstr "Quantos links são mostrados"
+#~ msgid "Options"
+#~ msgstr "Opções"
+#~ msgid "<li>Option '%s' has been deleted.</li>"
+#~ msgstr "<li>Option '%s' foi deletada.</li>"
+#~ msgid "<li>Error deleting Option '%s'.</li>"
+#~ msgstr "<li>Erro ao deletar a option '%s'.</li>"
+#~ msgid "Uninstall iMasters WP Incoming Links"
+#~ msgstr "Desinstalar iMasters WP Links de Entrada"
+#~ msgid "WordPress Options"
+#~ msgstr "Opções WordPress"
+#~ msgid "iMasters WP Incoming Links Unistall"
+#~ msgstr "Desinstalar iMasters WP Links de Entrada"
+#~ msgid "Origin Page"
+#~ msgstr "Página de Origem"
+#~ msgid ""
+#~ "You Are About To UNINSTALL iMasters WP incoming Links From WordPress."
+#~ "\\nThis Action Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To "
+#~ "Uninstall."
+#~ msgstr ""
+#~ "Você está a ponto de desinstalar iMasters WP Incoming Links do WordPress. "
+#~ "\\nEsta ação é irreversível. \\n\\nEscolha [Cancel] para Cancelar, [OK] "
+#~ "para Desinstalar."
+#~ msgid " Referenced in: "
+#~ msgstr "Referenciado em:"
+#~ msgid "It determines how many links will be striped"
+#~ msgstr "Determina quantas vezes serão listados os links"
+#~ msgid "It drop all registers of incoming links inside your database"
+#~ msgstr ""
+#~ "Apaga todos os registros dos Links de Entrada dentro do seu banco de dados"
+#~ msgid "UNINSTALL iMasters WP incoming Links"
+#~ msgstr "Desinstalar iMasters WP Links de Entrada"
+#~ msgid "Setting Key '%s' has been deleted."
+#~ msgstr "Opção '%s' foi deletada."
+#~ msgid ""
+#~ "The logs inserted by iMasters WP Incoming Links <strong>WILL NOT</strong> "
+#~ "be deleted. You will have to delete it manually."
+#~ msgstr ""
+#~ "Os Logs inseridos por iMasters Wp Incoming Links <strong> SERÃO </"
+#~ "strong>  deletados."
+
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And iMasters "
+#~ "WP Incoming Links Will Be Deactivated Automatically."
+#~ msgstr ""
+#~ "<a href=\"%s\">Clique Aqui</a> Para desisntalar e o iMasters WP Incoming "
+#~ "Links será desativado automaticamente."
+#~ msgid ""
+#~ "Deactivating iMasters WP Incoming Links plugin does not remove any data "
+#~ "that may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Desativando o plugin iMasters Incoming Links não serão removidados os "
+#~ "dados inseridos no banco de dados. Somente esta página remove "
+#~ "completamente o plugin."
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+#~ msgid ""
+#~ "The logs by iMasters WP Incoming Links <strong> WILL </strong> be deleted."
+#~ msgstr ""
+#~ "Os Logs inseridos por iMasters Wp Incoming Links <strong> SERÃO </"
+#~ "strong>  deletados."
+#~ msgid "WARNING:"
+#~ msgstr "ATENÇÃO:"
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "Uma vez desinstalado, não poderá ser desfeito. Faça um Backup do seu "
+#~ "banco de dados primeiro."
+#~ msgid "Yes"
+#~ msgstr "Sim"
+#~ msgid "Are you sure that want clear the logs from Database?"
+#~ msgstr "Tem certeza que quer limpar os logs do banco de dados?"
+
+#, fuzzy
+#~ msgid "&laquo;"
+#~ msgstr "Mais &raquo;"
+
+#, fuzzy
+#~ msgid "&raquo;"
+#~ msgstr "Mais &raquo;"
+
